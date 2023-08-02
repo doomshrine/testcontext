@@ -1,0 +1,28 @@
+good first issue:
+  name: good first issue
+  color: '#7057ff'
+  description: Denotes an issue ready for a new contributor, according to the "help wanted" guidelines.
+hacktoberfest:
+  name: hacktoberfest
+  color: '#ff6b00'
+  description: Issues related to the Hacktoberfest event.
+help wanted:
+  name: help wanted
+  color: '#006b75'
+  description: Denotes an issue that needs help from a contributor. Must meet "help wanted" guidelines.
+kind/bug:
+  name: kind/bug
+  color: '#e11d21'
+  description: Categorizes issue or PR as related to a bug.
+kind/cleanup:
+  name: kind/cleanup
+  color: '#c7def8'
+  description: Categorizes issue or PR as related to cleaning up code, process, or technical debt.
+kind/feature:
+  name: kind/feature
+  color: '#c7def8'
+  description: Categorizes issue or PR as related to a new feature.
+¯\_(ツ)_/¯:
+  name: ¯\_(ツ)_/¯
+  color: '#f9d0c4'
+  description: ¯\_(ツ)_/¯
