@@ -1,3 +1,7 @@
+area/dependency:
+  name: area/dependency
+  color: '#0052cc'
+  description: Issues or PRs related to dependency changes.
 good first issue:
   name: good first issue
   color: '#7057ff'
