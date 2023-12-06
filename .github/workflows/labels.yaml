@@ -26,7 +26,7 @@ jobs:
           else
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
-      - uses: actions/setup-go@v4
+      - uses: actions/setup-go@v5
         if: steps.labels-changed.outputs.changed == 'true'
         with:
           go-version: '1.20'
